@@ -2,7 +2,7 @@
 
 [sql link](https://www.youtube.com/watch?v=iOiyJgnN71c&list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn)
 
-## install mysql
+# install mysql
 
 ## sudo apt update
 
