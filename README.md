@@ -10,7 +10,7 @@
 
 ## 
 
-## access mysql
+# access mysql
 
 ## sudo mysql
 
@@ -18,7 +18,7 @@
 
 [mysql db](https://www.netveloper.com/bases-de-datos-de-pruebas-para-mysql)
 
-## create database sakila;
+# create database sakila;
 
 ## unzip [path file-db.zip]
 
@@ -26,6 +26,8 @@
 
 ## mysql -u root -p world < sakila-data.sql
 
-## lessons
+# lessons
 
 ## 30 june 2021 - lesson 1-2
+
+## 7 july 2021 - lesson 3
