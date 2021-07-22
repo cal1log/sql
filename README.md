@@ -1,6 +1,10 @@
 # sql
 
-[sql link](https://www.youtube.com/watch?v=iOiyJgnN71c&list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn)
+[sql_link](https://www.youtube.com/watch?v=iOiyJgnN71c&list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn)
+
+# uninstall mysql
+
+[uninstall mysql](https://askubuntu.com/questions/640899/how-do-i-uninstall-mysql-completely)
 
 # install mysql
 
@@ -26,8 +30,22 @@
 
 ## mysql -u root -p world < sakila-data.sql
 
+# install phpmyadmin
+
+[phpmyadmin install link](https://desarrolloweb.com/articulos/instalar-phpmyadmin-linux.html)
+
+# access phpmyadmin
+
+[phpmyadmin](http://localhost/phpmyadmin)
+
+## user : root
+
+## password like holberton
+
 # lessons
 
 ## 30 june 2021 - lesson 1-2
 
 ## 7 july 2021 - lesson 3
+
+## 22 july 2021 - lesson 4
