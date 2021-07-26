@@ -38,6 +38,16 @@
 
 [phpmyadmin](http://localhost/phpmyadmin)
 
+# if this does not work
+
+## sudo lsof -i ":80"
+
+## kill -9 <id root process>
+
+## sudo service apache2 start
+
+## sudo service apache2 status
+
 ## user : root
 
 ## password like holberton
@@ -49,3 +59,5 @@
 ## 7 july 2021 - lesson 3
 
 ## 22 july 2021 - lesson 4
+
+## 26 july 2021 - lesson 5
