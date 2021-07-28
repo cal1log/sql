@@ -61,3 +61,5 @@
 ## 22 july 2021 - lesson 4
 
 ## 26 july 2021 - lesson 5
+
+## 27 july 2021 - lesson 6
